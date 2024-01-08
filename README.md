@@ -4,6 +4,11 @@ A campus-level place recognition dataset, milliSonic, which contains the single-
 - Sequence1: https://rec.ustc.edu.cn/share/bf9129e0-77d6-11ee-b57e-372adc6d8979
 
 Dataset Visualize
-  ```
-  python demo.py
-  ```
+```
+python demo.py
+```
+
+Dataset Evaluate
+```
+python evaluate.py
+```

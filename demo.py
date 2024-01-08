@@ -10,7 +10,7 @@ for pose in odometry_file:
 odometry = np.array(odometry_list)
 print(odometry.shape)
 
-odometry_file.close
+odometry_file.close()
 
 fig, axs = plt.subplots(1, 1)
 
